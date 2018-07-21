@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chloe\n"
+"POT-Creation-Date: 2013-11-26 17:31+0200\n"
+"PO-Revision-Date: 2013-11-26 17:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: zaferyardimci <support@waspthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid "Error 404"
+msgstr "Hata 404"
+
+#: ../404.php:10
+msgid "Page Not Found."
+msgstr "Sayfa bulunamadı"
+
+#: ../404.php:12
+msgid "Sorry, but we couldn't find the page you requested."
+msgstr "Üzgünüm ama bu sayfaya malesef şuanda erişemiyorsunuz"
+
+#: ../archive.php:75 ../archive.php:77 ../index.php:75 ../index.php:77
+#: ../page-home.php:197
+msgid "Nothing found"
+msgstr "Hiç bir sonuç bulunamadı"
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı parola korumalı, yorumları görmek için lütfen parolayı girin."
+
+#: ../comments.php:17
+msgid "No Comments"
+msgstr "Hiç Yorum Yapılmamış"
+
+#: ../comments.php:17
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: ../comments.php:17
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: ../comments.php:25
+msgid "<i class=\"fa fa-angle-left\"></i> Older Comments"
+msgstr "<i class=\"fa fa-angle-left\"></i> Önceki yorumlar"
+
+#: ../comments.php:26
+msgid "Newer Comments <i class=\"fa fa-angle-right\"></i>"
+msgstr "Yeni Yorumlar <i class=\"fa fa-angle-right\"></i>"
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr "Yorumlar Kapalı."
+
+#: ../comments.php:52
+msgid "<i class=\"fa fa-mail-reply\"></i> Leave a Reply"
+msgstr "<i class=\"fa fa-mail-reply\"></i> Bir Yorum Yapın"
+
+#: ../comments.php:53
+#, php-format
+msgid "<i class=\"fa fa-mail-reply\"></i> Leave a Reply to %s"
+msgstr "<i class=\"fa fa-mail-reply\"></i> %s Cevap Yazın"
+
+#: ../comments.php:54
+msgid "Cancel Reply"
+msgstr "Cevabı iptal et"
+
+#: ../comments.php:55 ../page-contact.php:108
+msgid "Send"
+msgstr "Gönder"
+
+#: ../comments.php:57
+msgid "Comment"
+msgstr "Yorum"
+
+#: ../comments.php:68 ../page-contact.php:85
+msgid "Name"
+msgstr "İsim"
+
+#: ../comments.php:72 ../page-contact.php:93
+msgid "E Mail"
+msgstr "E Posta"
+
+#: ../header.php:139 ../searchform.php:3
+msgid "Search"
+msgstr "Arama"
+
+#: ../index.php:9 ../framework/functions/chloe-functions.php:384
+msgid "Blog"
+msgstr "Blog"
+
+#: ../page-contact.php:16
+msgid "Please enter your name."
+msgstr "Lütfen isminizi girin."
+
+#: ../page-contact.php:23
+msgid "Please enter your email address."
+msgstr "Lütfen e posta adresinizi girin."
+
+#: ../page-contact.php:26
+msgid "You entered an invalid email address."
+msgstr "Geçersiz bir e posta adresi girdiniz, lütfen kontrol edin."
+
+#: ../page-contact.php:33
+msgid "Please enter a message."
+msgstr "Lütfen e mesaj yazınız."
+
+#: ../page-contact.php:73
+msgid "Thanks, your email was sent successfully."
+msgstr "Teşşekkürler, E posta başarıyla gönderildi."
+
+#: ../page-contact.php:101
+msgid "Message"
+msgstr "Mesaj"
+
+#: ../page-home.php:26
+msgid "Recent Works"
+msgstr "Son Çalışmalar"
+
+#: ../page-home.php:29
+msgid "See All Works"
+msgstr "Tüm Çalışmaları Görün"
+
+#: ../page-home.php:112
+msgid "Recent Posts"
+msgstr "Son Yazılar"
+
+#: ../page-home.php:115
+msgid "See All Posts"
+msgstr "Tüm Yazıları Görün"
+
+#: ../page-home.php:212
+msgid "My Resume"
+msgstr "Özgeçmiş"
+
+#: ../page-home.php:215
+msgid "See more about me"
+msgstr "Hakkımda daha fazla bilgi edinin"
+
+#: ../page-portfolio.php:38
+msgid "Show All"
+msgstr "Hepsi"
+
+#: ../search.php:9
+#, php-format
+msgid "Search Results for '%s'"
+msgstr "Arama Sonuçları '%s'"
+
+#: ../search.php:75
+msgid "No Search found"
+msgstr "Hiç bir sonuç bulunamadı"
+
+#: ../search.php:77
+msgid ""
+"Sorry, no results found. Try different words to describe what you are "
+"looking for."
+msgstr ""
+"Üzgünüm bir sonuç bulunamadı, Farklı kelimeler ile arama yapmayı deneyin."
+
+#: ../single-portfolio.php:51
+msgid "Visit Website"
+msgstr "Siteyi ziyaret et"
+
+#: ../single.php:62
+msgid "Next Page <i class=\"fa fa-angle-right\"></i>"
+msgstr "Sonraki Sayfa <i class=\"fa fa-angle-right\"></i>"
+
+#: ../single.php:62
+msgid "<i class=\"fa fa-angle-left\"></i> Previous Page"
+msgstr "<i class=\"fa fa-angle-left\"></i> Önceki Sayfa"
+
+#: ../single.php:76
+msgid "Posted by"
+msgstr "Yazar"
+
+#: ../single.php:76
+msgid "Posted in"
+msgstr "Kategori"
+
+#: ../single.php:82
+msgid "Tagged in:"
+msgstr "Etiket:"
+
+#: ../framework/functions/chloe-functions.php:191
+msgid "prev"
+msgstr "Önce"
+
+#: ../framework/functions/chloe-functions.php:200
+msgid "next"
+msgstr "Sonra"
+
+#: ../framework/functions/chloe-functions.php:232
+msgid "Archive for the"
+msgstr "Arşiv"
+
+#: ../framework/functions/chloe-functions.php:236
+msgid "Category"
+msgstr "Kategori"
+
+#: ../framework/functions/chloe-functions.php:240
+msgid "Posts Tagged"
+msgstr "Etiket"
+
+#: ../framework/functions/chloe-functions.php:247
+#: ../framework/functions/chloe-functions.php:253
+#: ../framework/functions/chloe-functions.php:259
+msgid "Archive for"
+msgstr "Arşiv "
+
+#: ../framework/functions/chloe-functions.php:265
+msgid "Author Archive"
+msgstr "Yazar Arşivi"
+
+#: ../framework/functions/chloe-functions.php:269
+msgid "Blog Archives"
+msgstr "Blog Arşivi"
+
+#: ../framework/functions/chloe-functions.php:372
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#: ../framework/functions/chloe-functions.php:375
+msgid "Portfolio"
+msgstr "Çalışmalar"
+
+#: ../framework/functions/comment_function.php:20
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../framework/functions/comment_function.php:23
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s de %2$s"
+
+#: ../framework/functions/comment_function.php:24
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: ../framework/functions/comment_function.php:31
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onaylanması için bekliyor."
+
+#: ../framework/functions/custom-meta-boxs.php:170
+msgid "Portfolio Information"
+msgstr "Çalışma Bilgileri"
+
+#: ../framework/functions/general.php:27
+msgid "Main Menu"
+msgstr "Ana Menu"
+
+#: ../framework/functions/general.php:35
+msgid "Blog Sidebar"
+msgstr "Blog Sayfası Yan Kısım"
+
+#: ../framework/functions/general.php:46
+msgid "Portfolio Sidebar"
+msgstr "Çalışmalar Sayfası Yan Kısım"
+
+#: ../framework/functions/general.php:57
+msgid "Resume Sidebar"
+msgstr "Özgeçmiş Sayfası Yan Kısım"
+
+#: ../framework/functions/general.php:68
+msgid "Skills Area"
+msgstr "Beceri Alanı"
+
+#: ../framework/functions/general.php:70
+msgid "\"Wasp themes - Skills\" drag and drop here."
+msgstr "\"Wasp themes - Skills\" birleşenini bu alana sürekleyip bırakın."
+
+#: ../framework/functions/resume-taxonomy-field.php:13
+#: ../framework/functions/resume-taxonomy-field.php:34
+msgid "Font-Awesome Icon Class"
+msgstr "Font-Awesome Icon Class (özel icon kullanın)"
+
+#: ../framework/functions/skills-widget.php:16
+msgid "A widget that displays the author skills "
+msgstr "Site sahibinin becerilerini gösteren bir birleşendir."
+
+#~ msgid "Web Site"
+#~ msgstr "Web Site"
+
+#~ msgid "Edit this page"
+#~ msgstr "Düzenle"
+
+#~ msgid "Edit this entry"
+#~ msgstr "Bu yazıyı düzenle"

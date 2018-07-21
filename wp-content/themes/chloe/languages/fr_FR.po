@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chloe\n"
+"POT-Creation-Date: 2013-11-26 17:30+0200\n"
+"PO-Revision-Date: 2013-11-26 17:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: zaferyardimci <support@waspthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid "Error 404"
+msgstr ""
+
+#: ../404.php:10
+msgid "Page Not Found."
+msgstr ""
+
+#: ../404.php:12
+msgid "Sorry, but we couldn't find the page you requested."
+msgstr ""
+
+#: ../archive.php:75 ../archive.php:77 ../index.php:75 ../index.php:77
+#: ../page-home.php:197
+msgid "Nothing found"
+msgstr ""
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:17
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:17
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:17
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:25
+msgid "<i class=\"fa fa-angle-left\"></i> Older Comments"
+msgstr ""
+
+#: ../comments.php:26
+msgid "Newer Comments <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:52
+msgid "<i class=\"fa fa-mail-reply\"></i> Leave a Reply"
+msgstr ""
+
+#: ../comments.php:53
+#, php-format
+msgid "<i class=\"fa fa-mail-reply\"></i> Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:55 ../page-contact.php:108
+msgid "Send"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:68 ../page-contact.php:85
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:72 ../page-contact.php:93
+msgid "E Mail"
+msgstr ""
+
+#: ../header.php:139 ../searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../index.php:9 ../framework/functions/chloe-functions.php:384
+msgid "Blog"
+msgstr ""
+
+#: ../page-contact.php:16
+msgid "Please enter your name."
+msgstr ""
+
+#: ../page-contact.php:23
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../page-contact.php:26
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../page-contact.php:33
+msgid "Please enter a message."
+msgstr ""
+
+#: ../page-contact.php:73
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: ../page-contact.php:101
+msgid "Message"
+msgstr ""
+
+#: ../page-home.php:26
+msgid "Recent Works"
+msgstr ""
+
+#: ../page-home.php:29
+msgid "See All Works"
+msgstr ""
+
+#: ../page-home.php:112
+msgid "Recent Posts"
+msgstr ""
+
+#: ../page-home.php:115
+msgid "See All Posts"
+msgstr ""
+
+#: ../page-home.php:212
+msgid "My Resume"
+msgstr ""
+
+#: ../page-home.php:215
+msgid "See more about me"
+msgstr ""
+
+#: ../page-portfolio.php:38
+msgid "Show All"
+msgstr ""
+
+#: ../search.php:9
+#, php-format
+msgid "Search Results for '%s'"
+msgstr ""
+
+#: ../search.php:75
+msgid "No Search found"
+msgstr ""
+
+#: ../search.php:77
+msgid ""
+"Sorry, no results found. Try different words to describe what you are "
+"looking for."
+msgstr ""
+
+#: ../single-portfolio.php:51
+msgid "Visit Website"
+msgstr ""
+
+#: ../single.php:62
+msgid "Next Page <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ../single.php:62
+msgid "<i class=\"fa fa-angle-left\"></i> Previous Page"
+msgstr ""
+
+#: ../single.php:76
+msgid "Posted by"
+msgstr ""
+
+#: ../single.php:76
+msgid "Posted in"
+msgstr ""
+
+#: ../single.php:82
+msgid "Tagged in:"
+msgstr ""
+
+#: ../framework/functions/chloe-functions.php:191
+msgid "prev"
+msgstr ""
+
+#: ../framework/functions/chloe-functions.php:200
+msgid "next"
+msgstr ""
+
+#: ../framework/functions/chloe-functions.php:232
+msgid "Archive for the"
+msgstr ""
+
+#: ../framework/functions/chloe-functions.php:236
+msgid "Category"
+msgstr ""
+
+#: ../framework/functions/chloe-functions.php:240
+msgid "Posts Tagged"
+msgstr ""
+
+#: ../framework/functions/chloe-functions.php:247
+#: ../framework/functions/chloe-functions.php:253
+#: ../framework/functions/chloe-functions.php:259
+msgid "Archive for"
+msgstr ""
+
+#: ../framework/functions/chloe-functions.php:265
+msgid "Author Archive"
+msgstr ""
+
+#: ../framework/functions/chloe-functions.php:269
+msgid "Blog Archives"
+msgstr ""
+
+#: ../framework/functions/chloe-functions.php:372
+msgid "Home"
+msgstr ""
+
+#: ../framework/functions/chloe-functions.php:375
+msgid "Portfolio"
+msgstr ""
+
+#: ../framework/functions/comment_function.php:20
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../framework/functions/comment_function.php:23
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/functions/comment_function.php:24
+msgid "(Edit)"
+msgstr ""
+
+#: ../framework/functions/comment_function.php:31
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/functions/custom-meta-boxs.php:170
+msgid "Portfolio Information"
+msgstr ""
+
+#: ../framework/functions/general.php:27
+msgid "Main Menu"
+msgstr ""
+
+#: ../framework/functions/general.php:35
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../framework/functions/general.php:46
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: ../framework/functions/general.php:57
+msgid "Resume Sidebar"
+msgstr ""
+
+#: ../framework/functions/general.php:68
+msgid "Skills Area"
+msgstr ""
+
+#: ../framework/functions/general.php:70
+msgid "\"Wasp themes - Skills\" drag and drop here."
+msgstr ""
+
+#: ../framework/functions/resume-taxonomy-field.php:13
+#: ../framework/functions/resume-taxonomy-field.php:34
+msgid "Font-Awesome Icon Class"
+msgstr ""
+
+#: ../framework/functions/skills-widget.php:16
+msgid "A widget that displays the author skills "
+msgstr ""
